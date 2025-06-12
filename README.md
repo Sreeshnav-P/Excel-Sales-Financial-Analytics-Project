@@ -1,5 +1,5 @@
 # Excel-Sales-and-Financial-Analytics-Project
-# 📊 Excel P&L Dashboard Showcase
+# 📊 Excel Sales & Financial Analytics Dashboard
 
 This project showcases my skills in creating dynamic and insightful financial dashboards using Microsoft Excel. It includes comprehensive Profit & Loss (P&L) reports and performance analytics for a fictional hardware company — *AtliQ Hardwares*. These dashboards were designed with interactive pivot tables, slicers, and structured financial KPIs.
 

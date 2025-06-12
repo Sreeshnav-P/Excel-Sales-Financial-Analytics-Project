@@ -32,11 +32,27 @@ This project showcases my skills in creating dynamic and insightful financial da
 - Microsoft Excel (Pivot Tables, Charts, Conditional Formatting)
 - PDF Export for reporting
 
+## 🧠 Technical & Soft Skills
+
+### 🔧 Technical Skills:
+- Proficient in ETL (Extract, Transform, Load) methodology
+- Created dynamic date tables using Power Query
+- Derived fiscal months and quarters
+- Built and maintained data model relationships in Power Pivot
+- Integrated supplementary data into existing data models
+- Wrote DAX formulas for calculated columns and KPIs
+
+### 🧑‍💼 Soft Skills:
+- Strong understanding of Sales & Finance reporting structure
+- Designed user-friendly, intuitive dashboards with empathy
+- Tuned report performance for efficiency and speed
+- Developed a strategic approach to report planning and delivery
+
 ## 🎯 Skills Demonstrated
 
 - Data transformation and modeling
 - Business analysis and financial reporting
 - Excel dashboard design
-
+- Report storytelling and stakeholder-focused presentation
 ---
 

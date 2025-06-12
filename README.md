@@ -40,6 +40,3 @@ This project showcases my skills in creating dynamic and insightful financial da
 
 ---
 
-🔗 **Visit my personal website to see more projects**  
-📬 [Your contact/email or LinkedIn]
-
